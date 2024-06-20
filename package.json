@@ -1,0 +1,26 @@
+{
+  "name": "153",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "description": "this is calculaytor uisng selenium",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhagyalaxmi153/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bhagyalaxmi153/calculator/issues"
+  },
+  "homepage": "https://github.com/Bhagyalaxmi153/calculator#readme"
+}
